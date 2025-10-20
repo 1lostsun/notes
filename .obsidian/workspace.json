@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/gmp/GMP.md",
+                "file": "Golang/memory/Лекция Go to memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GMP"
+              "title": "Лекция Go to memory"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "хранили",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/memory/gc/Garbage Collector.md",
+                "file": "Golang/memory/Лекция Go to memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Garbage Collector"
+              "title": "Backlinks for Лекция Go to memory"
             }
           },
           {
@@ -186,53 +185,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fadbabff44c4dc1c",
+  "active": "42bac434b8ab9c86",
   "lastOpenFiles": [
-    "Без названия.md",
-    "Golang/gmp/GMP.md",
-    "Golang/собесы/Советы.md",
+    "Pasted image 20251020162948.png",
+    "Golang/memory/Allocation.md",
+    "Golang/memory/Мини-Лекция про память в Go.md",
+    "Golang/memory/Лекция Go to memory.md",
+    "Golang/gmp/GMP статья.md",
+    "Golang/memory/memory.md",
+    "Golang/memory/heap/Heap.md",
+    "Golang/slice/slice growth.md",
+    "Golang/slice",
+    "Golang/memory/gc/Garbage Collector.md",
+    "Pasted image 20251019142453.png",
+    "Pasted image 20251019142443.png",
+    "Golang/memory/stack/Stack.md",
     "Golang/gmp/netpoller.md",
+    "Golang/Алгоритмы.md",
+    "Golang/gmp/GMP.md",
+    "Планировщик.md",
+    "Без названия.md",
+    "Golang/собесы/Советы.md",
     "Golang/gmp/Парковка I Распарковка.md",
     "Golang/maps/Golang Maps.md",
     "Golang/maps/New map in Golang (с версии 1.24).md",
-    "Golang/Алгоритмы.md",
     "Golang/собесы/middle.md",
     "Golang/собесы",
     "Golang/memory/Лекция Go to Memory.md",
     "Golang/gmp/main goroutine.md",
-    "Golang/memory/Мини-Лекция про память в Go.md",
     "Golang/gmp/Код функций main горутины/getg.md",
     "Golang/gmp/Код функций main горутины",
-    "Golang/memory/stack/Stack.md",
-    "Golang/memory/Allocation.md",
     "Основные понятия^P.md",
     "^P.md",
     "Golang/memory/Лекция 11. Сборщик мусора.md",
-    "Golang/memory/gc/Garbage Collector.md",
-    "Golang/memory/memory.md",
-    "Golang/memory/heap/Heap.md",
-    "Golang/Golang internal structure.md",
     "Golang/gmp",
-    "Golang/Побитовые операции.md",
-    "Golang/maps/Open-addressed-hash-table.md",
-    "Golang/maps/Пробирование в хеш-таблицах.md",
-    "^4b.md",
     "Golang/memory/gc",
     "Golang/memory 1/stack",
     "Golang/memory 1/heap",
     "Golang/memory 1",
     "Golang/memory/heap",
-    "Golang/memory/stack",
-    "Golang/memory"
+    "Golang/memory/stack"
   ]
 }
