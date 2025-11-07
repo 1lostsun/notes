@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
+                "file": "Golang/gmp/GMP - статья.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "GMP - статья"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "77d2049ca6849d67",
   "lastOpenFiles": [
-    "Git.md",
     "SQL.md",
+    "Git.md",
     "Golang/gmp/GMP - статья.md",
     "GIT.md",
     "Golang/gmp/Парковка I Распарковка.md",
