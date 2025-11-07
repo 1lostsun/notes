@@ -194,4 +194,4 @@ func main() {
 	Предотвращение OOM (Out of memory) и Kill процессов.
 
 ---
-
+RSS - todo

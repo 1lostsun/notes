@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/gmp/netpoller.md",
-                "mode": "source",
+                "file": "Golang/Алгоритмы.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "netpoller"
+              "title": "Алгоритмы"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Golang/gmp/GMP.md",
+            "file": "Golang/gmp/GMP статья.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,8 +164,10 @@
   },
   "active": "b8f63d364c0ea482",
   "lastOpenFiles": [
-    "Golang/gmp/GMP.md",
+    "Golang/memory/Лекция Go to memory.md",
+    "Golang/gmp/GMP статья.md",
     "Golang/gmp/netpoller.md",
+    "Golang/gmp/GMP.md",
     "Golang/memory/gc/Garbage Collector.md",
     "Планировщик.md",
     "Golang/memory/heap/Heap.md",
